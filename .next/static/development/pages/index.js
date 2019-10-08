@@ -10103,7 +10103,7 @@ var _jsxFileName = "C:\\laragon\\www\\Advanced-React\\sick-fits\\frontend\\pages
 
 
 
-var Home = function Home(props) {
+var Home = function Home() {
   return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     __source: {
       fileName: _jsxFileName,
